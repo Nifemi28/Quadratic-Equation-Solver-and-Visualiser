@@ -5,8 +5,8 @@ A MATLAB script that solves quadratic equations of the form `y = ax² + bx + c`,
 ## Features
 
 - **Interactive command-line input** for coefficients `a`, `b`, and `c`
-- **Robust input validation** — rejects negative, zero, non-numeric, complex, and infinite values, with clear error messages guiding the user to re-enter valid input
-- **Discriminant-based root analysis** — determines whether the equation has two real roots, one repeated root, or no real roots
+- **Input validation** — rejects negative, zero, non-numeric, complex, and infinite values, with clear error messages guiding the user to re-enter valid input
+- **Discriminant based root analysis** — determines whether the equation has two real roots, one repeated root, or no real roots
 - **Root calculation** using the quadratic formula
 - **Graph plotting** of the curve over a fixed x-range, with any real roots marked directly on the graph
 - Clean, labelled plot with axis labels, title, legend, and grid
